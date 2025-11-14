@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+/* Custom styles for markdown viewer */
+.card {
+  text-align: left;
+}
